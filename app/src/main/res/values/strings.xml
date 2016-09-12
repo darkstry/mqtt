@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QonectMqtt</string>
+    <string name="textview_about">KETI sample application\n\r\n\r\n   1. SmartSocket data retrieve\n\r\n   2. SmartSocket on/off control</string>
+</resources>
